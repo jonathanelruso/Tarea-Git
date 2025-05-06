@@ -1,0 +1,14 @@
+#Ignorando extensiones JPG, JPEG y PNG
+
+/*.jpg
+/*jpeg
+/*png
+
+#Ignorando la carpeta empty
+
+/empty
+
+
+#Ignorando el archivo.dumm
+
+/archivo.dumm
